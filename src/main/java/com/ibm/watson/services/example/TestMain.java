@@ -176,37 +176,46 @@ public class TestMain {
 		TestMain example = new TestMain();
 		
 		//identifiable_languages
+		System.out.println("******Get list of identifiable languages******");
 		String getResponse = example.doGetRequest("identifiable_languages");
 		System.out.println(getResponse);
 
 		//identify
+		System.out.println("******Get identify text******");
 		getResponse = example.doGetRequestIdentify( "hola, gracias");
 		System.out.println(getResponse);
 
+		System.out.println("******Post identify text******");
 		getResponse = example.doPostRequestIdentify( "bonjour");
 		System.out.println(getResponse);
 		
 		//available models
+		System.out.println("******Get list of models******");
 		getResponse = example.doGetRequest("models");
 		System.out.println(getResponse);
 
 		//translate
+		System.out.println("******Get translate text******");
 		getResponse = example.doGetRequestTranslate("hola, gracias", "es", "en");
 		System.out.println(getResponse);
 		
+		System.out.println("******Post translate text******");
 		getResponse = example.doPostRequestTranslate("bonjour", "fr-en");
 		System.out.println(getResponse);
 		
 		//create profile
+		System.out.println("******Post create custom model using forced glossary******");
 		getResponse = example.doPostRequestCreateModel("en-es", "esen.tmx");
 		System.out.println(getResponse);
 		String id = new JSONObject(getResponse).getString("model_id");
 		
 		//poll profile
+		System.out.println("******Get poll the custom model******");
 		getResponse = example.doGetRequestPollModel(id);
 		System.out.println(getResponse);
 		
 		//delete profile
+		System.out.println("******Delete custom model******");
 		getResponse = example.doDeleteRequestDeleteModel(id);
 		System.out.println(getResponse);
 
