@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+ <header creationtool="mktmx" creationtoolversion="0.1" segtype="sentence" o-tmf="mktmx" adminlang="EN" srclang="es" datatype="rtf" o-encoding="UTF-8" creationdate= "20010414T1523Z"/>
+ <body>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"Profundizó"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"deepened"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"noche horrible"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"awful night"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"anfitrión"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"hosts"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"mantener los"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"hold"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"tercer partido"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"third-party"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"su incapacidad"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"failure"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"los encuentros"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"negotiations"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"valores periodísticos"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"journalistic values"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"organizaciones informativas"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"news organisations"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"NBD"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"NDB"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"archivos familiares personales"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"personal family archive"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"aspereza"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"roughness"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"mutismo"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"mutism"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"cantidad"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"sizes"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"juzgue a"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"prosecute"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"el MEDE"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"the ESM"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"portero de"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"goalkeeper in"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"soldados"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"personnel"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"consideren que"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"making sure"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"ídolo"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"mammon"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"pido humildemente"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"humbly ask"</seg>
+        </tuv>
+        </tu>
+        
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"cerrados"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"shuttered"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"glosario"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"glossary"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"hermosa"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"beautiful"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"estatua"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"statue"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"madre"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"mother"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"padre"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"father"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"idioma"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"language"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"traducción"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"translation"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"máquina"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"machine"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"papel"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"paper"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"lápiz"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"pen"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"mucama"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"maid"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"ciudad"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"city"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"viaje"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"travel"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"hijo"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"son"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"sol"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"sun"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"ambiente"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"atmosphere"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"hijo"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"son"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"sol"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"sun"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"embrague"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"clutch"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"tratar"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"try"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"café"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"coffee"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"noche"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"evening"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"tres"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"three"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"cabello"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"hair"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"agosto"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"august"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"forzado"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"forced"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"oficina"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"office"</seg>
+        </tuv>
+        </tu>
+        <tu tuid="1">
+            <tuv xml:lang="es">
+            <seg>"degradar"</seg>
+            </tuv>
+            <tuv xml:lang="en">
+        <seg>"demote"</seg>
+        </tuv>
+        </tu>
+</body>
+</tmx>
+        
